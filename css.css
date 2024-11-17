@@ -1,0 +1,19 @@
+.font{
+    font-style: italic;
+}
+.font1{
+    font-style: italic;
+    color: brown;
+    border-bottom: solid 2px orange;
+}
+.nav{
+    background-color: rgb(204, 129, 49);
+    color: white;
+    font-family: monospace;
+    border: solid 1px;
+    border-radius: 4px;
+    border-color: orange;
+    margin-right: 10px;
+    font-size: larger;
+    display: inline-block;
+}
