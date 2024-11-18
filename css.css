@@ -17,3 +17,8 @@
     font-size: larger;
     display: inline-block;
 }
+.b1{
+    background-color: aqua;
+    border: 2px solid aqua;
+    border-radius: 2px;
+}
