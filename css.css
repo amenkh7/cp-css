@@ -16,6 +16,7 @@
     margin-right: 10px;
     font-size: larger;
     display: inline-block;
+    font-family: roboto;
 }
 .b1{
     background-color: aqua;
@@ -28,4 +29,7 @@
 }
 .img{
     margin-left: 80px;
+}
+section >p{
+    color: red;
 }
